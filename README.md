@@ -5,7 +5,7 @@ Here are some ideas to get you started:
 - 🌱 I’m an experienced developer in: ... `JavaScript, TypeScript, Python, and PHP`
 - 📫 How to reach me: ... gjuliuskelvin@gmail@gmail.com
 
-```javascript```
+```javascript
 const Kelvin = {
     about: {
         name: "Kelvin",
@@ -17,6 +17,7 @@ const Kelvin = {
         twitter: "@thecybermoran"
     }
 };
+```
 
 [![Kelvins wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/G-bit94)
 
