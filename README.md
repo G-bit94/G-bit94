@@ -1,26 +1,22 @@
 Hi there 👋
 ## Call me Kelvin. I build digital experiences for brands.
 
-<!-- Here are some ideas to get you started:
+Here are some ideas to get you started:
 - 🌱 I’m an experienced developer in: ... `JavaScript, TypeScript, Python, and PHP`
 - 📫 How to reach me: ... gjuliuskelvin@gmail@gmail.com
 
-```javascript
+```javascript```
 const Kelvin = {
     about: {
         name: "Kelvin",
         firstRole: "Full-Stack Developer",
         secondRole: "SEO Strategist"
     },
-
     langs: ["JavaScript", "TypeScript", "Python", "PHP"],
-    
     links: {
         twitter: "@thecybermoran"
     }
 };
-
-```
 
 [![Kelvins wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Eightsville&theme=radical&custom_title=My%20Wakatime%20Stats&layout=compact)](https://github.com/G-bit94)
 
