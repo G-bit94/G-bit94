@@ -3,7 +3,7 @@ Hi there 👋
 
 Here are some ideas to get you started:
 - 🌱 I’m an experienced developer in: ... `JavaScript, TypeScript, Python, and PHP`
-- 📫 How to reach me: ... gjuliuskelvin@gmail@gmail.com
+- 📫 How to reach me: ... gjuliuskelvin@gmail.com
 
 ```javascript
 const Kelvin = {
