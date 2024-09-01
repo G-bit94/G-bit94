@@ -3,20 +3,27 @@ Hi there 👋
 
 Here are some ideas to get you started:
 - 🌱 I’m an experienced developer in: ... `JavaScript, TypeScript, Python, and PHP`
-- 📫 How to reach me: ... gjuliuskelvin@gmail.com
+- 📫 How to reach me: ... DM me on X/Twitter: @thecybermoran
 
 ```javascript
 const Kelvin = {
-    about: {
-        name: "Kelvin",
-        firstRole: "Full-Stack Developer",
-        secondRole: "SEO Strategist"
-    },
-    langs: ["JavaScript", "TypeScript", "Python", "PHP"],
-    links: {
-        twitter: "@thecybermoran"
-    }
-};
+  "about": {
+    "name": "Kelvin",
+    "firstRole": "Full-Stack Developer", 
+    "secondRole": "SEO Strategist"
+  },
+  "langs": [
+    "JavaScript", 
+    "TypeScript",
+    "Python",
+    "PHP"
+  ],
+  "links": {
+    "x_twitter": "@thecybermoran",
+    "github": "@G-bit94"
+  }
+}
+
 ```
 <!--
 [![Kelvins's GitHub stats](https://github-readme-stats.vercel.app/api?username=G-bit94&show_icons=true&theme=radical)](
