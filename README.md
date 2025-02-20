@@ -1,7 +1,7 @@
 Hi there 👋
 ## Call me Kelvin. I build digital experiences for brands.
 
-Here are some ideas to get you started:
+Here's a little bit about me:
 - 🌱 I’m an experienced developer in: ... `JavaScript, TypeScript, Python, and PHP`
 - 📫 How to reach me: ... DM me on X/Twitter: @thecybermoran
 
