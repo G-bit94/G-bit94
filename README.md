@@ -3,7 +3,7 @@ Hi there 👋
 
 Here's a little bit about me:
 - 🌱 I’m an experienced developer in: ... `JavaScript, TypeScript, Python, and PHP`
-- 📫 How to reach me: ... DM me on X/Twitter: @thecybermoran
+- 📫 Drop me a line: [https://kelvin.sentiadigital.com](https://kelvin.sentiadigital.com/#contact)
 
 ```javascript
 const Kelvin = {
